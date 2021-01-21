@@ -1,0 +1,16 @@
+#logo2 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 15px;
+    display: flex;
+    right: 399px;
+    
+
+}
+#logo1 {
+    
+    display: none;
+    
+
+}
